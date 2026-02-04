@@ -13,18 +13,10 @@ Bu proje, moda dünyasındaki son trendlerin, stil önerilerinin ve kişisel yaz
 
 Bu projeyi geliştirmek için aşağıdaki araçlar ve diller kullanılmıştır:
 
-* **Frontend:** HTML5, CSS3, JavaScript (veya React/Vue kullanıyorsan buraya yaz)
+* **Frontend:** HTML5, CSS3, JavaScript 
 * **Styling:** Bootstrap / Tailwind CSS / Sass
 * **Backend (Varsa):** Node.js / Python / Firebase
 * **Fontlar:** Google Fonts (Poppins, Montserrat vb.)
-
-## 📸 Ekran Görüntüleri
-
-| Ana Sayfa | Yazı Detayı |
-|---|---|
-| ![Ana Sayfa](https://via.placeholder.com/400x250?text=Ana+Sayfa+Gorseli) | ![Detay Sayfası](https://via.placeholder.com/400x250?text=Yazi+Detay+Gorseli) |
-
-*(Not: Ekran görüntülerini projenin içine bir `img` klasörüne ekleyip yolları güncelleyebilirsin.)*
 
 ## 🏁 Başlarken
 
@@ -41,5 +33,3 @@ Projeyi yerel bilgisayarınızda çalıştırmak için şu adımları izleyin:
 3.  **İndeks dosyasını açın:**
     * Sadece HTML ise `index.html` dosyasını tarayıcıda açmanız yeterlidir.
     * (Eğer bir framework kullanıyorsan: `npm install` ve `npm start`)
-
-Proje Linki: [https://github.com/Mervekrdnnz/moda-blogu](https://github.com/Mervekrdnnz/moda-blogu)
